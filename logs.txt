@@ -1,0 +1,8 @@
+04/11/2021 09:44:16 - https://www.alura.com.bronline: true
+04/11/2021 09:44:17 - https://random-status-code.herokuapp.comonline: true
+04/11/2021 09:44:18 - https://www.caelum.com.bronline: true
+04/11/2021 09:44:18 - https://www.casadocodigo.com.bronline: true
+04/11/2021 09:44:20 - https://www.alura.com.bronline: true
+04/11/2021 09:44:21 - https://random-status-code.herokuapp.comonline: true
+04/11/2021 09:44:21 - https://www.caelum.com.bronline: true
+04/11/2021 09:44:21 - https://www.casadocodigo.com.bronline: true
